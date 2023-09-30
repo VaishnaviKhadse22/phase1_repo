@@ -1,5 +1,5 @@
-                        '''Phase.1 - Task2'''
-                     '''RANDOM PASSWORD GENERATOR'''
+  '''Phase.1 - Task2'''
+'''RANDOM PASSWORD GENERATOR'''
 import string
 import random
  
