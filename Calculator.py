@@ -1,5 +1,5 @@
-                     '''Phase.1 - Task1'''
-                        '''CALCULATOR'''
+'''Phase.1 - Task1'''
+  '''CALCULATOR'''
 
 
 import tkinter as tk
